@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+.pokedex-title {
+  margin-top: 3rem;
+  margin-left: 1rem;
+}
+
+.pokedex {
+  margin: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4rem;
+}
